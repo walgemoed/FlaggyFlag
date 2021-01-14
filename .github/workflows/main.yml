@@ -15,5 +15,4 @@ jobs:
         username: walgcasr
         server-dir: /subdomains/flag/tmp/
         password: ${{ secrets.password }}
-        dry-run: true
         log-level: standard
