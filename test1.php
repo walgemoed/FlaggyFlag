@@ -1,6 +1,6 @@
 <?php
 require_once("zapcallib.php");
-//213
+
 $examples = array(
 	array(
 		"name" => "🇳🇱 Verjaardag prinses Beatrix (1938)",
