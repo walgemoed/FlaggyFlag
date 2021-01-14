@@ -13,5 +13,5 @@ jobs:
       with:
         server: server200.web-hosting.com
         username: walgcasr
-        server-dir: /subdomains/flag/tmp
+        server-dir: /subdomains/flag/tmp/
         password: ${{ secrets.password }}
