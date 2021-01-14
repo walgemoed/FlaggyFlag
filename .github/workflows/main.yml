@@ -14,4 +14,4 @@ jobs:
         server: server200.web-hosting.com
         username: walgcasr
         server-dir: /subdomains/flag/tmp
-        password: ${{ secrets.ftp_password }}
+        password: ${{ secrets.password }}
