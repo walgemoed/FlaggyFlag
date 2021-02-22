@@ -1,6 +1,17 @@
 <?php
 require_once("zapcallib.php");
 //123 124
+$jsonBody = '['
+        . '{'
+        . '"name" : "Verjaardag prinses Beatrix (1938)"'
+        . '"description" : "Wimpel: ✅\nHalfstok: ❌"'
+        . '"day" : "31"'
+        . '"month" : "01"'
+        . '"dayreplacement" : "01"'
+        . '"monthreplacement" : "02"'
+        . '}'
+        . ']';
+
 $examples = array(
 	array(
 		"name" => "🇳🇱 Verjaardag prinses Beatrix (1938)",
